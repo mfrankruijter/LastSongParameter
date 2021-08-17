@@ -1,0 +1,10 @@
+{
+    "output_file": "settings.json",
+    "TextFilePath": {
+        "type": "textbox",
+        "value": "C:\\Streamlabs\\Streamlabs Chatbot\\Services\\Twitch\\Files",
+        "label": "Text files location",
+        "tooltip": "The path in which the last song parameters are stored.",
+        "group": "Files"
+    }
+  }
